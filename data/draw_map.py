@@ -12,7 +12,7 @@ import math
 
 colormap=['#CD5C5C','#D6170F','#FF8278','#FF5D52','#FF392C','#FF1E1A','#FFA69E','#B30C06']
 
-path=r"C:\Users\77434\Desktop\新建文件夹 (2)"
+path = r"./traval_gps"
 list1=os.listdir(path)
 
 san_map = folium.Map(
